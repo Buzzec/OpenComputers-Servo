@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "opencomputersservo:block/external_servo/block_vertical",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "opencomputersservo:block/external_servo/block",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "opencomputersservo:block/external_servo/block",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "opencomputersservo:block/external_servo/block"
+    },
+    "facing=up": {
+      "model": "opencomputersservo:block/external_servo/block_vertical"
+    },
+    "facing=west": {
+      "model": "opencomputersservo:block/external_servo/block",
+      "y": 90
+    }
+  }
+}

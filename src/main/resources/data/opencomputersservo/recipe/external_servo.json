@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    " S ",
+    "BCB",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "create:shaft"
+    },
+    "B": {
+      "item": "create:brass_casing"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "id": "opencomputersservo:external_servo",
+    "count": 1
+  }
+}

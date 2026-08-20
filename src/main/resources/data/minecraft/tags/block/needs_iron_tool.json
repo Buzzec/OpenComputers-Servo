@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "opencomputersservo:computer_servo",
+    "opencomputersservo:external_servo"
+  ]
+}

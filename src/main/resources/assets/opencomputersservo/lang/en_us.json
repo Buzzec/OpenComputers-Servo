@@ -1,0 +1,5 @@
+{
+  "block.opencomputersservo.computer_servo": "Computer-Powered Servo Motor",
+  "block.opencomputersservo.external_servo": "Externally-Powered Servo Motor",
+  "itemGroup.opencomputersservo": "OpenComputers Servo"
+}

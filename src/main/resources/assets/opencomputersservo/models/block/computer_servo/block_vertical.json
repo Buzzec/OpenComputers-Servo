@@ -1,0 +1,8 @@
+{
+  "parent": "create:block/creative_motor/block_vertical",
+  "textures": {
+    "5": "opencomputers:block/case_side",
+    "6": "opencomputers:block/generic_top",
+    "particle": "opencomputers:block/case_side"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    " T ",
+    "PCP",
+    " B "
+  ],
+  "key": {
+    "T": {
+      "item": "create:precision_mechanism"
+    },
+    "P": {
+      "item": "opencomputers:transistor"
+    },
+    "C": {
+      "item": "opencomputers:printedcircuitboard"
+    },
+    "B": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "id": "opencomputersservo:computer_servo",
+    "count": 1
+  }
+}
